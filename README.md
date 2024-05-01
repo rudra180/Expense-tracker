@@ -1,5 +1,5 @@
 # Expense-tracker
-import math
+
 print ("Expense Tracker Per Month")
 print ("self allowance = 400")
 
